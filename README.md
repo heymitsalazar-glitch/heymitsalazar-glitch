@@ -1,16 +1,111 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:22c55e&height=200&section=header&text=Heyimit%20Salazar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Peru&descAlignY=58&descSize=16" width="100%" alt="header"/>
+</div>
 
-<!--
-**heymitsalazar-glitch/heymitsalazar-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=22c55e&center=true&vCenter=true&random=false&width=720&lines=Backend+Developer+%F0%9F%9A%80&lines=APIs+%7C+Microservices+%7C+Databases&lines=Clean+Code+%7C+SOLID+%7C+DDD&lines=No%20te%20rindas%2C%20est%C3%A1s%20m%C3%A1s%20cerca%20de%20lo%20que%20imaginas." alt="Typing SVG"/>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=heymitsalazar-glitch&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/heymitsalazar-glitch?style=for-the-badge&color=22c55e&labelColor=0a0a0a&label=FOLLOWERS" alt="followers"/>
+</div>
+
+---
+
+## 🧠 Who am I?
+
+```bash
+$ whoami
+heymitsalazar-glitch
+
+$ cat profile.json
+```
+
+```json
+{
+  "name"     : "Heyimit Salazar",
+  "role"     : "Backend Developer",
+  "location" : "Peru",
+  "email"    : "heymitsalazar@gmail.com",
+  "status"   : "open_to_collaborate ✅"
+}
+```
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+  <!-- Activa tus tecnologías arriba -->
+</div>
+
+---
+
+## 🔭 Mi flujo de trabajo
+
+```
+  CLIENT        API GATEWAY         MICROSERVICES        DB
+  ──────    ───────────────     ─────────────────    ──────────
+  Mobile ──▶ Rate Limiting  ──▶  Auth Service     ──▶ PostgreSQL
+  Web    ──▶ Auth / JWT     ──▶  User Service     ──▶ MongoDB
+  API    ──▶ Load Balancer  ──▶  Core Service     ──▶ Redis
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heymitsalazar-glitch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=22c55e&icon_color=22c55e" height="175" alt="stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymitsalazar-glitch&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=22c55e" height="175" alt="langs"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heymitsalazar-glitch&theme=tokyonight&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" width="680" alt="streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=heymitsalazar-glitch&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heymitsalazar-glitch&theme=tokyo-night&hide_border=true&area=true&color=22c55e&line=22c55e&point=ffffff" width="100%" alt="activity"/>
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://github.com/heymitsalazar-glitch">
+    <img src="https://img.shields.io/badge/GitHub-heymitsalazar-glitch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="mailto:heymitsalazar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-heymitsalazar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+```bash
+$ echo "Thanks for visiting — let's build something great 🚀"
+```
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0a0a0a&height=100&section=footer" width="100%" alt="footer"/>
+</div>
